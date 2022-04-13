@@ -18,7 +18,7 @@ user_ = os.getenv('DBUSER')
 password_ = os.getenv('PASSWORD')
 database_ = os.getenv('DATABASE')
 versionnum = os.getenv('VERSIONNUM')
-logchannelid = 872895837758455849
+logchannelid = 0
 tcpport = 5555
 
 
